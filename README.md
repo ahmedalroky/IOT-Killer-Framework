@@ -2,7 +2,7 @@
   
   
 ## TODO :  
-- I2C : Sniffer,replayer,Fuzzer - RPI , Arduino  
+- I2C : Sniffer,replayer,Fuzzer  
 - 1wire  : Sniffer,replayer,Fuzzer  
 - wiegand : Sniffer,replayer,Fuzzer  
 - UART : baudrate enumeration, console  
