@@ -6,6 +6,7 @@
 - 1wire  : Sniffer,replayer,Fuzzer  
 - wiegand : Sniffer,replayer,Fuzzer  
 - UART : baudrate enumeration, console  
+- RPITX integration  
 
 ## Supported hardware :  
 - RPI0  
